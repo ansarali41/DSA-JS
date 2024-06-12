@@ -8,4 +8,4 @@ function uniqueName(arr) {
     return uniqueNameArray;
 }
 
-console.log(uniqueName(['a', 'b', 'c', 'd', 'e', 'a', 'b']));
+console.log(uniqueName(['a', 'b', 'c', 'd', 'e', 'a', 'b', 'j']));
